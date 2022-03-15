@@ -9,3 +9,7 @@ def bar():
 
 print("Hellow World");
 print("Hey Batsy");
+
+
+for i in range(5):
+    print(i)
